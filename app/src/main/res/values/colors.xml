@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="renk">#D81B60</color>
+    <color name="renk2">#6699ff</color>
+    <color name="renk3">#ccffff</color>
+    <color name="renk4">#99ccff</color>
+    <color name="renk5">#fff</color>
+    <color name="renk6">#000</color>
+    <color name="renk7">#6666ff</color>
+    <color name="renk8">#3333ff</color>
+</resources>

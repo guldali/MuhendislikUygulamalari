@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MuhendislikUygulamalari</string>
+    <string-array name="formüller">
+        <item>1.Eğim</item>
+        <item>2.Koordinat Dönüşümü</item>
+        <item>3.Standart Sapma</item>
+        <item>4.Alan Hesabı</item>
+        <item>5.Grad Dönüşümü</item>
+        <item>6.Ölçek Bilgisi</item>
+        <item>7.Bölge Belirleme</item>
+
+
+
+    </string-array>
+</resources>
